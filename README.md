@@ -22,8 +22,8 @@ Our goal: reduce downtime, cut third-level support costs, and empower DevOps/SRE
 
 ## 🛠 Tech Stack  
 **Languages & frameworks**  
-- Java, Python, C#, TypeScript  
-- Spring Boot, FastAPI, Google A-DK, LlamaIndex  
+- Java, Python, TypeScript, Kotlin, C#
+- Spring Boot, FastAPI, FastMCP, Google ADK, LlamaIndex
 - Relational Databases (especially PostgreSQL)  
 
 ---
